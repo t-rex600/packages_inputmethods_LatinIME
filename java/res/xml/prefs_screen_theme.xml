@@ -18,6 +18,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin"
     android:title="@string/settings_screen_theme"
+	android:background="@*android:color/material_blue_grey"
     android:key="screen_theme">
     <!-- Keyboard theme list will be populated programmatically here. -->
 </PreferenceScreen>
